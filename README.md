@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ar3xh/ar3xh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Main](https://github.com/user-attachments/assets/587baad8-5bdc-4edd-aa9b-b50eb9309af8)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css"/>
+<br>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,styledcomponents,nodejs,express,electron">
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase">
+<br>
+<img src="https://skillicons.dev/icons?i=obsidian,vscode,idea,discord,ae,ps,figma,git,unreal,unity">
+
+</div>
+
+<p align="center">______________________________________</p>
