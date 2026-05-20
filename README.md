@@ -10,7 +10,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase">
 <br>
-<img src="https://skillicons.dev/icons?i=obsidian,vscode,idea,discord,ae,ps,figma,git,unreal,unity">
+<img src="https://skillicons.dev/icons?i=obsidian,vscode,idea,discord,ae,ps,figma,git,unreal,unity,godot">
 
 </div>
 
